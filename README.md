@@ -8,12 +8,7 @@ Run these commands in a command prompt after installing Python
 
 Run this first:
 ```cmd
-pip install google-generativeai
-```
-
-Run this second:
-```cmd
-pip install --upgrade google-genai
+pip install PyQt6 google-genai
 ```
 ##
 

@@ -4,9 +4,8 @@
 
 * Google GenerativeAI
 
-Run these commands in a command prompt after installing Python
+Run these command in a command prompt after installing Python
 
-Run this first:
 ```cmd
 pip install PyQt6 google-genai
 ```
